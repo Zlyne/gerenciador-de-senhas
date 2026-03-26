@@ -127,7 +127,7 @@ Exibe uma caixa de confirmação e, se confirmado, remove a entrada do banco pel
 - [ ] Exportar senhas para arquivo criptografado
 - [ ] Campo de busca/filtro na tabela
 - [ ] Autenticação com dois fatores (2FA)
-- [ ] Tema claro/escuro alternável
+- [x] Tema claro/escuro alternável
 
 ---
 
