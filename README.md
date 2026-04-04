@@ -45,7 +45,7 @@ gerenciador-senhas/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/gerenciador-senhas.git
+git clone https://github.com/AlexSandroSF25-2010/gerenciador-senhas.git
 cd gerenciador-senhas
 ```
 
